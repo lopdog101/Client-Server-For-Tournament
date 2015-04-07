@@ -1,0 +1,12 @@
+C:\Users\иван\Documents\Visual Studio 2013\C#\Спец курс\ApplicationClient\ApplicationClient\bin\Debug\ApplicationClient.exe.config
+C:\Users\иван\Documents\Visual Studio 2013\C#\Спец курс\ApplicationClient\ApplicationClient\bin\Debug\ApplicationClient.exe
+C:\Users\иван\Documents\Visual Studio 2013\C#\Спец курс\ApplicationClient\ApplicationClient\bin\Debug\ApplicationClient.pdb
+C:\Users\иван\Documents\Visual Studio 2013\C#\Спец курс\ApplicationClient\ApplicationClient\obj\Debug\ApplicationClient.csprojResolveAssemblyReference.cache
+C:\Users\иван\Documents\Visual Studio 2013\C#\Спец курс\ApplicationClient\ApplicationClient\obj\Debug\ApplicationClient.exe
+C:\Users\иван\Documents\Visual Studio 2013\C#\Спец курс\ApplicationClient\ApplicationClient\obj\Debug\ApplicationClient.pdb
+C:\Projects\ApplicationServer.v1\ApplicationClient\bin\Debug\ApplicationClient.exe.config
+C:\Projects\ApplicationServer.v1\ApplicationClient\bin\Debug\ApplicationClient.exe
+C:\Projects\ApplicationServer.v1\ApplicationClient\bin\Debug\ApplicationClient.pdb
+C:\Projects\ApplicationServer.v1\ApplicationClient\obj\Debug\ApplicationClient.exe
+C:\Projects\ApplicationServer.v1\ApplicationClient\obj\Debug\ApplicationClient.pdb
+C:\Projects\ApplicationServer.v1\ApplicationClient\obj\Debug\ApplicationClient.csprojResolveAssemblyReference.cache

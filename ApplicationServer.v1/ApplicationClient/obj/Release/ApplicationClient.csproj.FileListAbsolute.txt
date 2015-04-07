@@ -1,0 +1,6 @@
+C:\Users\иван\Documents\Visual Studio 2013\C#\Спец курс\ApplicationClient\ApplicationClient\bin\Release\ApplicationClient.exe.config
+C:\Users\иван\Documents\Visual Studio 2013\C#\Спец курс\ApplicationClient\ApplicationClient\bin\Release\ApplicationClient.exe
+C:\Users\иван\Documents\Visual Studio 2013\C#\Спец курс\ApplicationClient\ApplicationClient\bin\Release\ApplicationClient.pdb
+C:\Users\иван\Documents\Visual Studio 2013\C#\Спец курс\ApplicationClient\ApplicationClient\obj\Release\ApplicationClient.exe
+C:\Users\иван\Documents\Visual Studio 2013\C#\Спец курс\ApplicationClient\ApplicationClient\obj\Release\ApplicationClient.pdb
+C:\Users\иван\Documents\Visual Studio 2013\C#\Спец курс\ApplicationClient\ApplicationClient\obj\Release\ApplicationClient.csprojResolveAssemblyReference.cache

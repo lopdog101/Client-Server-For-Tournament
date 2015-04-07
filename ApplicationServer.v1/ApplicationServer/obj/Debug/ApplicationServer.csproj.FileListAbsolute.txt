@@ -1,0 +1,6 @@
+C:\Projects\ApplicationServer.v1\ApplicationServer\bin\Debug\ApplicationServer.v1.exe.config
+C:\Projects\ApplicationServer.v1\ApplicationServer\obj\Debug\ApplicationServer.v1.exe
+C:\Projects\ApplicationServer.v1\ApplicationServer\obj\Debug\ApplicationServer.v1.pdb
+C:\Projects\ApplicationServer.v1\ApplicationServer\bin\Debug\ApplicationServer.v1.exe
+C:\Projects\ApplicationServer.v1\ApplicationServer\bin\Debug\ApplicationServer.v1.pdb
+C:\Projects\ApplicationServer.v1\ApplicationServer\obj\Debug\ApplicationServer.csprojResolveAssemblyReference.cache

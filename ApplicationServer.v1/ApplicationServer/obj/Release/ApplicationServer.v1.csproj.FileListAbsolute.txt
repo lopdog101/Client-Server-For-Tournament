@@ -1,0 +1,6 @@
+C:\Users\иван\Documents\Visual Studio 2013\C#\Спец курс\ApplicationServer.v1\ApplicationServer.v1\bin\Release\ApplicationServer.v1.exe.config
+C:\Users\иван\Documents\Visual Studio 2013\C#\Спец курс\ApplicationServer.v1\ApplicationServer.v1\bin\Release\ApplicationServer.v1.exe
+C:\Users\иван\Documents\Visual Studio 2013\C#\Спец курс\ApplicationServer.v1\ApplicationServer.v1\bin\Release\ApplicationServer.v1.pdb
+C:\Users\иван\Documents\Visual Studio 2013\C#\Спец курс\ApplicationServer.v1\ApplicationServer.v1\obj\Release\ApplicationServer.v1.exe
+C:\Users\иван\Documents\Visual Studio 2013\C#\Спец курс\ApplicationServer.v1\ApplicationServer.v1\obj\Release\ApplicationServer.v1.pdb
+C:\Users\иван\Documents\Visual Studio 2013\C#\Спец курс\ApplicationServer.v1\ApplicationServer.v1\obj\Release\ApplicationServer.v1.csprojResolveAssemblyReference.cache
