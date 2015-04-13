@@ -13,33 +13,33 @@ namespace ApplicationServer.v1
 
         public override void Judge()
         {
-            while (!_isFinished)
-            {
-                var move = ReadLeftMove();
+            //while (!_isFinished)
+            //{
+            //    var move = ReadLeftMove();
 
-                Estimate(move);
+            //    Estimate(move);
 
-                if (_isFinished)
-                {
-                    SendLeftWin();
-                    SendRightLoose();
-                    break;
-                }
+            //    if (_isFinished)
+            //    {
+            //        SendLeftWin();
+            //        SendRightLoose();
+            //        break;
+            //    }
 
-                SendRightMove(move);
+            //    SendRightMove(move);
 
-                move = ReadRightMove();
+            //    move = ReadRightMove();
 
-                Estimate(move);
-                if (_isFinished)
-                {
-                    SendRightWin();
-                    SendLeftLoose();
-                    break;
-                }
+            //    Estimate(move);
+            //    if (_isFinished)
+            //    {
+            //        SendRightWin();
+            //        SendLeftLoose();
+            //        break;
+            //    }
 
-                SendLeftMove(move);
-            }
+            //    SendLeftMove(move);
+            //}
         }
     }
 }

@@ -2,7 +2,7 @@
 
 namespace ApplicationServer.v1
 {
-    class Program
+    class ApplicationServer
     {
         static void Main(string[] args)
         {
@@ -11,7 +11,7 @@ namespace ApplicationServer.v1
             Console.WriteLine("--------------------------------");
 
             Console.WriteLine("Enter the port number for reading: ");
-            int portNumber = Convert.ToInt32(Console.ReadLine());
+            var portNumber = Convert.ToInt32(Console.ReadLine());
 
             var factory = new CrossGameJudgeFactory();
             new GameServer(factory, portNumber).Run();

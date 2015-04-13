@@ -10,3 +10,9 @@ C:\Projects\ApplicationServer.v1\ApplicationClient\bin\Debug\ApplicationClient.p
 C:\Projects\ApplicationServer.v1\ApplicationClient\obj\Debug\ApplicationClient.exe
 C:\Projects\ApplicationServer.v1\ApplicationClient\obj\Debug\ApplicationClient.pdb
 C:\Projects\ApplicationServer.v1\ApplicationClient\obj\Debug\ApplicationClient.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Documents\GitHub\Client-Server-For-Tournament\ApplicationServer.v1\ApplicationClient\bin\Debug\ApplicationClient.exe.config
+C:\Users\Сергей\Documents\GitHub\Client-Server-For-Tournament\ApplicationServer.v1\ApplicationClient\obj\Debug\ApplicationClient.exe
+C:\Users\Сергей\Documents\GitHub\Client-Server-For-Tournament\ApplicationServer.v1\ApplicationClient\obj\Debug\ApplicationClient.pdb
+C:\Users\Сергей\Documents\GitHub\Client-Server-For-Tournament\ApplicationServer.v1\ApplicationClient\bin\Debug\ApplicationClient.exe
+C:\Users\Сергей\Documents\GitHub\Client-Server-For-Tournament\ApplicationServer.v1\ApplicationClient\bin\Debug\ApplicationClient.pdb
+C:\Users\Сергей\Documents\GitHub\Client-Server-For-Tournament\ApplicationServer.v1\ApplicationClient\obj\Debug\ApplicationClient.csprojResolveAssemblyReference.cache

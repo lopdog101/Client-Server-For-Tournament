@@ -4,3 +4,9 @@ C:\Projects\ApplicationServer.v1\ApplicationServer\obj\Debug\ApplicationServer.v
 C:\Projects\ApplicationServer.v1\ApplicationServer\bin\Debug\ApplicationServer.v1.exe
 C:\Projects\ApplicationServer.v1\ApplicationServer\bin\Debug\ApplicationServer.v1.pdb
 C:\Projects\ApplicationServer.v1\ApplicationServer\obj\Debug\ApplicationServer.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Documents\GitHub\Client-Server-For-Tournament\ApplicationServer.v1\ApplicationServer\bin\Debug\ApplicationServer.v1.exe.config
+C:\Users\Сергей\Documents\GitHub\Client-Server-For-Tournament\ApplicationServer.v1\ApplicationServer\obj\Debug\ApplicationServer.v1.exe
+C:\Users\Сергей\Documents\GitHub\Client-Server-For-Tournament\ApplicationServer.v1\ApplicationServer\obj\Debug\ApplicationServer.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Documents\GitHub\Client-Server-For-Tournament\ApplicationServer.v1\ApplicationServer\bin\Debug\ApplicationServer.v1.exe
+C:\Users\Сергей\Documents\GitHub\Client-Server-For-Tournament\ApplicationServer.v1\ApplicationServer\bin\Debug\ApplicationServer.v1.pdb
+C:\Users\Сергей\Documents\GitHub\Client-Server-For-Tournament\ApplicationServer.v1\ApplicationServer\obj\Debug\ApplicationServer.v1.pdb

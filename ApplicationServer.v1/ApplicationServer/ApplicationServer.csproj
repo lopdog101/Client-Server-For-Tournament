@@ -50,7 +50,7 @@
     <Compile Include="IGameJudge.cs" />
     <Compile Include="IGameJudgeFactory.cs" />
     <Compile Include="IGamePeer.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="ApplicationServer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
